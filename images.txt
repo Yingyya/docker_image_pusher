@@ -2,3 +2,5 @@ xhofe/alist:v3.35.0
 ghcr.io/f4team-cn/f4pan:beta-408121
 container-registry.oracle.com/graalvm/jdk:23
 container-registry.oracle.com/graalvm/jdk:17
+container-registry.oracle.com/graalvm/nodejs-community:17
+container-registry.oracle.com/graalvm/nodejs-community:23
