@@ -1,3 +1,4 @@
+ghcr.io/lagrangedev/lagrange.onebot:sha-ae400c0@sha256:95efae0acbddc7d09db7ddb2b76d1948721b7a848dd199e688b29da683822dfc
 xhofe/alist:v3.35.0
 ghcr.io/f4team-cn/f4pan:beta-408121
 container-registry.oracle.com/graalvm/jdk:23
